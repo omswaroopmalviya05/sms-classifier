@@ -4,6 +4,7 @@ Machine Learning web app that classifies SMS messages as Spam or Ham using Natur
 
 ## 🚀 Live Demo
 
+https://sms-classifier-nojn6pmuqsqy2c8rpftnwt.streamlit.app/
 
 ## 📌 Features
 - Detect Spam / Ham messages instantly
